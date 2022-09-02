@@ -1,4 +1,12 @@
 ## Welcome to GitHub Pages
+# Aashna's First CS193 Homework
+
+## Favorite Things About CS193
+- This class is only once a week.
+- The teachers are nice and helpful.
+- The class is online next week. 
+- There are fun questions at the beginning of class.
+- There is usually something funny in the presentations during class. 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
